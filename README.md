@@ -19,8 +19,7 @@ mathematical existence.
 Kim Altair
 
 # Download the thesis
-[[[https://raw.github.com/KimAltair/ZFC-D/blob/main/ZFC_D%20(10).pdf](https://github.com/KimAltair/ZFC-D/blob/5a8a7be2982da8d12b8f2c7c8f9359b1edb1e684/ZFC_D%20(10).pdf)](https://github.com/KimAltair/ZFC-D/blob/fb5bcd8c489a94cd82610f9f33ed113d45d8e9d6/ZFC_D%20(11).pdf)](https://github.com/KimAltair/ZFC-D/blob/fb5bcd8c489a94cd82610f9f33ed113d45d8e9d6/ZFC_D%20(11).pdf)
-
+https://github.com/KimAltair/ZFC-D/blob/main/Wonderful%20ZFC_D.pdf
 
 ## E mail
 dbnjk515@gmail.com
